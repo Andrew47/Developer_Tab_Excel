@@ -7,6 +7,8 @@ Developer Tab Functionality in Microsoft Excel 2016
 
 * The Developer Tab must be activated. To do this, go to File, open options, click on "Customize Ribbon", and then check the box "Developer". 
 
+* Note that macros must be enabled for this spreadsheet to work.
+
 ##Explanation
 
 The Excel Spreadsheet has two tabs:
